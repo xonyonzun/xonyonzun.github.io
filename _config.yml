@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Yong Jun Song"
-  avatar           : "/assets/images/logo.png" # path of avatar image, e.g. "/assets/images/youtube_profile_image.png"
+  avatar           : "/assets/images/student_icon.png" # path of avatar image, e.g. "/assets/images/youtube_profile_image.png"
   bio              : "Hello World!"
   location         : "Ansan, Republic of Korea"
   email            :
