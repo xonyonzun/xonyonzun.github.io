@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "XONYONZUN Lab"
+title                    : "XONYONZUN"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "xonyonzun"
@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "송용준"
-  avatar           : "/assets/images/id_photo.jpeg" # path of avatar image, e.g. "/assets/images/youtube_profile_image.png"
+  avatar           : "/assets/images/logo.png" # path of avatar image, e.g. "/assets/images/youtube_profile_image.png"
   bio              : "한양대학교 CAI Lab 석사과정"
   location         : "대한민국 안산"
   email            :
