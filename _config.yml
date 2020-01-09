@@ -111,11 +111,11 @@ author:
   avatar           : "/assets/images/id_photo_gray_resize.jpeg" # path of avatar image, e.g. "/assets/images/youtube_profile_image.png"
   bio              : "한양대학교 CAI Lab 석사과정"
   location         : "대한민국 안산"
-  email            :
+  email            : "xonyonzun@hanyang.ac.kr"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:xonyonzun@hanyang.ac.kr
+      #url: mailto:xonyonzun@hanyang.ac.kr
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
