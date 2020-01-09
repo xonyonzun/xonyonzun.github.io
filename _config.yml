@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "XONYONZUN "
+title                    : "XONYONZUN 블로그 "
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "xonyonzun"
