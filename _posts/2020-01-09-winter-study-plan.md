@@ -1,6 +1,6 @@
 ---
 title: "2020년 겨울 방학 스터디 계획 - 심층학습"
-date: 2020-01-09 23:30:00
+date: 2020-01-09 23:30:00 -0000
 classes: wide
 categories: study
 ---
