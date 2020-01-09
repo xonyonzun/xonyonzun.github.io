@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 locale                   : "ko-KR"
 title                    : "XONYONZUN 블로그 "
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "머신러닝 & 딥러닝"# site tagline that appears below site title in masthead
 name                     : "xonyonzun"
 description              : "An amazing website."
 url                      : "https://xonyonzun.github.io" # the base hostname & protocol for your site e.g. 
