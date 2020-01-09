@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "XONYONZUN"
+title                    : "XONYONZUN Lab"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+name                     : "xonyonzun"
 description              : "An amazing website."
 url                      : "https://xonyonzun.github.io" # the base hostname & protocol for your site e.g. 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "송용준"
   avatar           : "/assets/images/student_icon.png" # path of avatar image, e.g. "/assets/images/youtube_profile_image.png"
-  bio              : "석사과정"
+  bio              : "한양대학교 CAI Lab 석사과정"
   location         : "대한민국 안산"
   email            :
   links:
