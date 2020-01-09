@@ -1,9 +1,7 @@
 ---
-layout : post
 title: "2020년 겨울 방학 스터디 계획 - 심층학습"
-date: 2020-01-09
-tags: deep_learning
-categories: study 
+date: 2020-01-09 23:30:00 -0400
+categories: study
 ---
 ### 1. 책 선정
 - **심층 학습** - *이안 굿펠로, 요슈아 벤지오, 애런 쿠빌 지음 | 류광 옮김*
