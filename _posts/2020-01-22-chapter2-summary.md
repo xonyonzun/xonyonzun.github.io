@@ -5,4 +5,4 @@ classes: wide
 categories: study
 ---
 
-![스크린샷1](assets/images/deep_learning_onenote/chapter2/1.png)
+![1](assets/images/deep_learning_onenote/chapter2/1.png)
