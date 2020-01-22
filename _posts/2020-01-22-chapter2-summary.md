@@ -6,3 +6,4 @@ categories: study
 ---
 
 ![image](/assets/images/deep_learning_onenote/chapter2/1.png)
+![link](https://hyu-my.sharepoint.com/:o:/g/personal/bigbird090_hanyang_ac_kr/EvH6W2-wQspMhHq1gpKyuqUBomY4TPfTBj9MOaStMx_wKg?e=4VMhmv)
