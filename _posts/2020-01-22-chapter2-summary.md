@@ -5,5 +5,13 @@ classes: wide
 categories: study
 ---
 
-![image](/assets/images/deep_learning_onenote/chapter2/1.png)
-![link](https://hyu-my.sharepoint.com/:o:/g/personal/bigbird090_hanyang_ac_kr/EvH6W2-wQspMhHq1gpKyuqUBomY4TPfTBj9MOaStMx_wKg?e=4VMhmv)
+![image1](/assets/images/deep_learning_onenote/chapter2/image1.png)
+![image2](/assets/images/deep_learning_onenote/chapter2/image2.png)
+![image3](/assets/images/deep_learning_onenote/chapter2/image3.png)
+![image4](/assets/images/deep_learning_onenote/chapter2/image4.png)
+![image5](/assets/images/deep_learning_onenote/chapter2/image5.png)
+![image6](/assets/images/deep_learning_onenote/chapter2/image6.png)
+![image7](/assets/images/deep_learning_onenote/chapter2/image7.png)
+![image8](/assets/images/deep_learning_onenote/chapter2/image8.png)
+![image9](/assets/images/deep_learning_onenote/chapter2/image9.png)
+![image10](/assets/images/deep_learning_onenote/chapter2/image10.png)
